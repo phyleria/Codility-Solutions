@@ -138,6 +138,7 @@ ul {
   min-height: calc(100vh - 80px);
   display: flex;
   align-items: center;
+ 
 }
 
 .intro__body {
@@ -582,4 +583,7 @@ body.is-black {
         position: absolute;
         right: -50px;
     }
+}
+section{
+  white-space: normal;
 }
