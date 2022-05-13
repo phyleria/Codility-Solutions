@@ -519,6 +519,7 @@ body.is-black {
 
 .about-right h2{
     font-weight: 300;
+    font-size: 1.25rem;
 }
 .about-btns{
     display: flex;
@@ -560,6 +561,7 @@ body.is-black {
     font-weight: 300;
     padding: 0.5rem;
     opacity: 0.8;
+    text-align: left;
 }
 
 @media screen and (min-width: 992px){
