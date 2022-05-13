@@ -27,6 +27,10 @@ body {
   background: var(--white-color);
   transition: .3s;
 }
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
 a {
   text-decoration: none;
@@ -503,7 +507,7 @@ body.is-black {
     color: #000;
 }
 .about-right{
-    background: #fff;
+    
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -515,11 +519,13 @@ body.is-black {
 .about-right h1{
     font-size: 3rem;
     text-transform: uppercase;
+    color: #9855FF;
 }
 
 .about-right h2{
     font-weight: 300;
     font-size: 1.25rem;
+    color: #8856d8;
 }
 .about-btns{
     display: flex;

@@ -5,3 +5,7 @@ document.querySelector('.header__moon').onclick = function() {
 document.querySelector('.header__mob-menu').onclick = function() {
     document.querySelector('.header-menu').classList.toggle('is-active');
 }
+function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+  }
