@@ -1,1 +1,2 @@
-# phyleria.github.io
+# Codility Solutions
+THis contains day to day solutions on codility exercises using javascript
