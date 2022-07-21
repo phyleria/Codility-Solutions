@@ -1,2 +1,2 @@
-# Codility Solutions
-This contains day to day solutions on codility exercises using javascript
+# DSA Solutions
+This contains day to day solutions on DSA exercises using javascript
